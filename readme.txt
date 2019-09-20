@@ -3,5 +3,4 @@
 # 本项目名字：基于STM32F4芯片Cortex-M3架构别踩白块Demo
 # 本工程主体部分也是作者编写部分为 GitHub\DontTouchWhiteBlock\USER\main.c
 # 本工程依赖STM32F4ZET6芯片，工程中部分代码来源正点原子公司所写。
-# DesignPatterns
 # 时间：2019.6.17 
